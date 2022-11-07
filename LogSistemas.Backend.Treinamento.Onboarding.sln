@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LogSistemas.Backend.Treinamento.Onboarding.1.Api.ExercicioMarca", "LogSistemas.Backend.Treinamento.Onboarding.1.Api.ExercicioMarca\LogSistemas.Backend.Treinamento.Onboarding.1.Api.ExercicioMarca.csproj", "{89942FE8-A122-4D19-8F37-F61CD7C91F9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89942FE8-A122-4D19-8F37-F61CD7C91F9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89942FE8-A122-4D19-8F37-F61CD7C91F9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89942FE8-A122-4D19-8F37-F61CD7C91F9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89942FE8-A122-4D19-8F37-F61CD7C91F9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93003D88-B4EF-40FD-A79C-EE99F819EC20}
+		RESX_NeutralResourcesLanguage = pt-BR
+	EndGlobalSection
+EndGlobal
