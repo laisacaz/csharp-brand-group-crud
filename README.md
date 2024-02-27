@@ -1,1 +1,2 @@
-First API cadastro de grupos e marcas
+## First API using C# .NET
+### Crud for brand and groups
